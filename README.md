@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Casual V Rising player with a love for base building and exploration. Not chasing leaderboards — just enjoying the world of Vardoran at my own pace.
 <!--
 **chaunceyvonjaxie/chaunceyvonjaxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
